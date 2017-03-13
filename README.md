@@ -26,6 +26,10 @@
 
 a knight jumps into a square attacked by an adversary pawn, and captured
 
+[some_piece_deficit.cql](some_piece_deficit.cql)
+
+[rook_vs_2minors.cql](rook_vs_2minors.cql)
+
 ## structures
 
 [one side with 2-4, other side with 3-3](P_33_vs_24.cql)
@@ -49,4 +53,8 @@ a knight jumps into a square attacked by an adversary pawn, and captured
 white pawns on e4 and f4, e5 is covered by a black pawn, e5 *xe5 f5!
 flip color
 
+[anands king](anands_king.cql)
 
+[exchange sac on c3](exchangeSacOnc3.cql)
+
+[h3 vs h6g5](h3_vs_h6g5.cql)

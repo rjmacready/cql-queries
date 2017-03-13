@@ -11,7 +11,9 @@ powerdifference 0 ([QRNB] [qrnb])
 
 {
 
-powerdifference -3 ([QRNB] [qrnb])
+
+powerdifference -1000 -1 ([QRNB] [qrnb])
+
 
 } +)
 }
